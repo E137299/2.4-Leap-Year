@@ -15,7 +15,7 @@ Write a Python script that asks the user to input a year and then determines whe
 A year is a leap year if it meets the following criteria:
 
 1. The year is divisible by 4 and not divisible by 100.
-2. Or, the year is also divisible by 400, in which case it **is** a leap year.
+2. Or, the year is divisible by 400, in which case it **is** a leap year.
 
 #### Requirements:
 
